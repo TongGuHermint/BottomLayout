@@ -13,6 +13,6 @@
   ### Add the dependency
   ```
   dependencies {
-      implementation 'com.github.TongGuHermint:BottomLayout:v1.0.0'
+      implementation 'com.github.TongGuHermint:BottomLayout:v1.0.1'
 	}
 ```
